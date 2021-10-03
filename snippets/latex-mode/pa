@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: parenthesis
+# key: pa
+# group: math
+# --
+\pa{`%`$1}$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: hebrew-paragraph
+# key: פר
+# --
+‏\paragraph{${1:`%`}} $0

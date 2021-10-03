@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: hebrew-textbf
+# key: ב
+# condition: (not (save-restriction (widen) (texmathp)))
+# --
+‏\textbf{`%`$1}$0

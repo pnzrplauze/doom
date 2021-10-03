@@ -1,0 +1,4 @@
+# key: /
+# name: frac-short
+# --
+\frac{${1:`(or % "nume")`}}{${2:denu}}$0

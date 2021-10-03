@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: hebrew-corollary
+# key: מסק
+# group: hebrew latex
+# condition: (doom-snippets-bolp)
+# --
+#+BEGIN_corollary
+`%`$0
+#+END_corollary

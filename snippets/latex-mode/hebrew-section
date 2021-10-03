@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hebrew-section
+# key: סק
+# group: hebrew latex
+# --
+\section{${1:`%`}}
+$0

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: hebrew-proof
+# key: הוכ
+# group: hebrew latex
+# condition: (doom-snippets-bolp)
+# --
+‏\begin{proof}
+`%`$0
+‏\end{proof}

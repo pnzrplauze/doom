@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: hebrew-enumerate
+# key: אנמ
+# group: hebrew latex
+# --
+\begin{enumerate}
+  `(or % "\\item ")`$0
+\end{enumerate}
